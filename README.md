@@ -17,7 +17,7 @@ Welcome to the Luckiest Person Algorithm - a specialized JavaScript solution des
 
 ## Implementation
 
-The algorithm is implemented through a series of functions like `createArray`, `splitTheArray`, `removeTails`, and others. The main execution orchestrates the process, leading to the conclusive winner who has achieved multiple heads in a row. 💻
+The algorithm systematically simulates a heads-or-tails game for a given number of people. It divides the participants, conducts coin tosses, eliminates individuals based on outcomes, and repeats until only one person remains. The focus is on tracking total heads, tosses, and ultimately revealing the consistent heads winner. The process ensures a predictable outcome in a conformative approach to randomness. 💻
 
 ## Output
 
