@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Luckiest Person Algorithm - a specialized JavaScript solution designed to pinpoint that remarkable individual who consistently scores heads in a coin toss. This readme provides an insight into the algorithm's functionality and why it stands out in the world of randomness. 🌐
+Welcome to the Luckiest Person Algorithm - a specialized JavaScript simulation designed to pinpoint that remarkable individual who consistently scores heads in a coin toss. This readme provides an insight into the algorithm's functionality and why it stands out in the world of randomness. 🌐
 
 ## Key Features
 
